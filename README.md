@@ -1,6 +1,10 @@
 # CIE1931ColorSpace
 
 
+Main file:-
+
+The dress - Blue vs Gold.nb
+
 Reference : -
 
 https : //medium.com/hipster - color - science/a - beginners - guide - to - colorimetry - 401 f1830b65a
